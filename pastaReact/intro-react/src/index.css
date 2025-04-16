@@ -1,0 +1,80 @@
+:root{
+  --Very-pale-blue: hsl(225, 100%, 98%);
+--Desaturated-blue: hsl(224, 23%, 55%);
+--Dark-blue: hsl(223, 47%, 23%);
+--Pale-blue: hsl(225, 100%, 94%);
+--Bright-blue: hsl(245, 75%, 52%);
+}
+
+body{
+
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  align-content: center;
+  background-color: var(--Desaturated-blue);
+}
+.imagem{
+  width: 15vw;
+border-radius: 20px 20px 0px 0px;
+}
+.container{
+  background-color: white;
+  width: 15vw;
+  height: 50vh;
+  align-items: center;
+  border-radius: 25px;
+  margin: 0;
+  position: relative;
+  top: 200px;
+}
+.titulo{
+  position: relative;
+  left: 70px;
+}
+.textinho{
+  font-size: 14px;
+  position: relative;
+  left: 30px;
+}
+.preco{
+  display: flex;
+  align-items: center;
+  background-color: var(--Very-pale-blue);
+  position: relative;
+  left: 20px;
+  width: 13vw;
+  height: 7vh;
+  border-radius: 10px;
+  justify-content: space-around;
+}
+.imagem2{
+  width: 40px;
+  height: 40px;
+  position: relative;
+  top: 5px;
+}
+.text1{
+  position: relative;
+  top: 10px;
+}
+.botao{
+  width: 13vw;
+  height: 3vh;
+  border-radius: 5px;
+  position: relative;
+  left: 20px;
+  border: 0px;
+  background-color: var(--Bright-blue);
+  color: white;
+  top: 20px;
+}
+.cancelar{
+  font-size: 15px;
+  position: relative;
+  top: 20px;
+  left: 100px;
+}
