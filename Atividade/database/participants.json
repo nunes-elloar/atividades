@@ -1,0 +1,34 @@
+[
+  {
+    "id": "1746209075310",
+    "name": "Elloar",
+    "email": "elloar@gmail.com",
+    "password": "123456",
+    "age": 17,
+    "city": "Maceió"
+  },
+  {
+    "id": "1746209087800",
+    "name": "Elloar",
+    "email": "elloa@gmail.com",
+    "password": "123456",
+    "age": 17,
+    "city": "Maceió"
+  },
+  {
+    "id": "1746209200121",
+    "name": "Elloar",
+    "email": "teixeira@gmail.com",
+    "password": "123456",
+    "age": 17,
+    "city": "Maceió"
+  },
+  {
+    "id": "1746210528709",
+    "name": "Elloar",
+    "email": "nunes@gmail.com",
+    "password": "123456",
+    "age": 17,
+    "city": "Maceió"
+  }
+]
